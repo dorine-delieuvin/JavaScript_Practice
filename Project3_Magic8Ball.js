@@ -2,9 +2,9 @@
 
 Create a programme in which the user inputs a question
 and the programme logs randomly one of 5 sentences 
-using JavaScript - Codecademy
+using JavaScript
 
-User should input their auestion in the myQuestion constant and run the programme
+User should input their question in the myQuestion constant and run the programme
 */
 
 // stores the question
