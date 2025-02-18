@@ -6,6 +6,11 @@ Programme calculating weekly sleep debt using JavaScript - Codecademy Project
 This project calculates if you’re getting enough sleep each week using a sleep debt calculator.
 The program determines actual and ideal hours of sleep for each night of the last week.
 It also calculates, in hours, how far you are from your weekly sleep goal.
+
+This attempt assumed that the user was inputing the data themself,
+thus, the actual sleep data and goal should be entered in the function call as described l.69
+
+Another version of tis programme was written, following the intended method more closely.
 */
 
 // actual weekly sleep (hours)
